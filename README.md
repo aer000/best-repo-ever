@@ -1,5 +1,4 @@
 # best-repo-ever
+but is it really the best? (new-branch-2)
+really really? (new-branch-2)
 
-best to make some changes
-(on new-branch-1)so I can experience the true joy of branches
-(also on new-branch-1) add a new line
