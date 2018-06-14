@@ -1,4 +1,5 @@
 # best-repo-ever
 
 best to make some changes
-so I can experience the true joy of branches
+(on new-branch-1)so I can experience the true joy of branches
+(also on new-branch-1) add a new line
